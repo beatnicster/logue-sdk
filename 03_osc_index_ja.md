@@ -12,6 +12,7 @@ nav_order: 2
 _Note: 追加,訂正，リンク切れについては logue-sdk@korg.co.jp までご連絡下さい._
 
 | 名前 | 開発者 | 備考 | プラットフォーム |　|
+| [NORM](https://beatnicster.booth.pm/items/6637409) | Beatnicster | 2 Osc + Noise Osc | nts-1 mkii| 寄付 |
 | [Alpha One](https://blog.boochow.com/logue/alpha1) | boochow instruments | Alpha-Juno DCO emulation | pro, xd, nts-1 | 有料 |
 | [Hoovic](https://blog.boochow.com/logue/hoovic) | boochow instruments | Hoover sound | pro, xd, nts-1, nts-1 mkii | 有料 |
 | [Lily](https://blog.boochow.com/logue/lily) | boochow instruments | oscillator unit based on Mutable Instruments Braids | nts-1 mkii | 無料 |
